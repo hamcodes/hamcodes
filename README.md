@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...The MERN stack.
 - 📫 How to reach me: ...https://www.linkedin.com/in/jeremyhamilton035/
 -->
-[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=hamcodes)](https://github.com/hamcodes/github-readme-stats)
+[![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=hamcodes&show_icons=true&theme=dracula)
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
