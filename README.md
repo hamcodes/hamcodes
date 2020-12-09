@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Jeremy!
+Full Stack Software Engineer.
+I strive to consistently work hard, learn new concepts quickly, and be a team player. I have strong communication skills, and enjoy finding solutions to problems while utilizing technology. I am always interested in opportunities to learn and grow.
+My key skills include: Javascript, React, Redux, Ruby on Rails, Ruby, Express, NodeJS, Sqlite, Express, Node, HTML, CSS, Microsoft Office. 
 
 <!--
 **hamcodes/hamcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
