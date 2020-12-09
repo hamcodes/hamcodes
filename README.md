@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 [![Jeremy's github stats](https://github-readme-stats.vercel.app/api?username=hamcodes&show_icons=true&theme=dracula)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamcodes)](https://github.com/hamcodes/github-readme-stats)
